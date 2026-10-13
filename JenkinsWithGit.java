@@ -2,7 +2,7 @@ package miscelleneous;
 
 /**
  *
- * @author Zafar Iqbal Khan, zkhan@psu.edu.sa
+ * @author  Iqbal Khan, zkhan@psu.edu.sa
  */
 public class JenkinsWithGit {
     public static void main(String[] args) {
